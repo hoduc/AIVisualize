@@ -91,6 +91,5 @@ ENV/
 
 #Mac and Emac
 .DS_Store
-.py#
-.#
-.py~
+.*#
+.*~
